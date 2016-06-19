@@ -1,9 +1,9 @@
-package com.javafusion.main;
+package com.javafusionphp.main;
 
-import com.javafusion.creational.FactoryClass;
-import com.javafusion.creational.PrototypeClass;
-import com.javafusion.creational.SingltonClass;
-import com.javafusion.creational.factory.Plan;
+import com.javafusionphp.creational.FactoryClass;
+import com.javafusionphp.creational.PrototypeClass;
+import com.javafusionphp.creational.SingltonClass;
+import com.javafusionphp.creational.factory.Plan;
 
 public class AppMain {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.javafusion.creational;
+package com.javafusionphp.creational;
 
 public class SingltonClass {
 

@@ -1,8 +1,8 @@
-package com.javafusion.creational;
+package com.javafusionphp.creational;
 
-import com.javafusion.creational.factory.CommercialPlan;
-import com.javafusion.creational.factory.DomesticPlan;
-import com.javafusion.creational.factory.Plan;
+import com.javafusionphp.creational.factory.CommercialPlan;
+import com.javafusionphp.creational.factory.DomesticPlan;
+import com.javafusionphp.creational.factory.Plan;
 
 public class FactoryClass {
 	public FactoryClass() {

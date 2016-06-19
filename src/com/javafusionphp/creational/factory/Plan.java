@@ -1,4 +1,4 @@
-package com.javafusion.creational.factory;
+package com.javafusionphp.creational.factory;
 
 public interface Plan {
 
